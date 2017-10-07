@@ -1,5 +1,5 @@
-# so-thu-sai-gon-leanhthinh
+# so-thu-sai-gon-Nhatquy123
 
 Sở Thú Sài Gòn 
 
-Tác giả: Le Anh Thinh
+Tác giả: Nhật Qúy
