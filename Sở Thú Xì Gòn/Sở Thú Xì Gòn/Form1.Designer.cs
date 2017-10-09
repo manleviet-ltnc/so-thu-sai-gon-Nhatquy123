@@ -155,11 +155,11 @@
             // 
             // btnXoa
             // 
+            this.btnXoa.Image = ((System.Drawing.Image)(resources.GetObject("btnXoa.Image")));
             this.btnXoa.Location = new System.Drawing.Point(3, 316);
             this.btnXoa.Name = "btnXoa";
-            this.btnXoa.Size = new System.Drawing.Size(85, 23);
+            this.btnXoa.Size = new System.Drawing.Size(45, 23);
             this.btnXoa.TabIndex = 9;
-            this.btnXoa.Text = "Xóa";
             this.btnXoa.UseVisualStyleBackColor = true;
             this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
@@ -226,6 +226,7 @@
             // 
             // mnuCoppy
             // 
+            this.mnuCoppy.Image = ((System.Drawing.Image)(resources.GetObject("mnuCoppy.Image")));
             this.mnuCoppy.Name = "mnuCoppy";
             this.mnuCoppy.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.C)));
             this.mnuCoppy.Size = new System.Drawing.Size(152, 22);
@@ -233,6 +234,7 @@
             // 
             // mnuCut
             // 
+            this.mnuCut.Image = ((System.Drawing.Image)(resources.GetObject("mnuCut.Image")));
             this.mnuCut.Name = "mnuCut";
             this.mnuCut.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.X)));
             this.mnuCut.Size = new System.Drawing.Size(152, 22);
@@ -240,6 +242,7 @@
             // 
             // mnuPaste
             // 
+            this.mnuPaste.Image = ((System.Drawing.Image)(resources.GetObject("mnuPaste.Image")));
             this.mnuPaste.Name = "mnuPaste";
             this.mnuPaste.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.V)));
             this.mnuPaste.Size = new System.Drawing.Size(152, 22);
@@ -247,6 +250,7 @@
             // 
             // mnuDelete
             // 
+            this.mnuDelete.Image = ((System.Drawing.Image)(resources.GetObject("mnuDelete.Image")));
             this.mnuDelete.Name = "mnuDelete";
             this.mnuDelete.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.D)));
             this.mnuDelete.Size = new System.Drawing.Size(152, 22);
